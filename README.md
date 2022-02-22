@@ -20,5 +20,13 @@ $ pkg install git
 
 $ pkg install python2
 
-$ git clone 
+$ git clone https://github.com/thony-gans/Termux-Linux
+
+• Terakhir perintah yang harus dilakukan
+
+$ cd Termux-Linux
+
+$ python2 keys.py
+
+° Maka Tampilan nya Akan Seperti ini °
 

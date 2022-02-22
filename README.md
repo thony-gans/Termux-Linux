@@ -34,4 +34,11 @@ $ python2 keys.py
 
 setelah itu lakukan pemilihan sesuka mu
 
-terimakasih 😁
+# Bantuan anda sangat membantu
+
+Donate 💰: https://bit.ly/3xgl5LV
+
+💪Subscribe juga YouTube kami🤖
+https://youtu.be/yhdAT-gNN_E 👊
+
+terimakasih😁

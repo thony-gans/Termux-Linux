@@ -30,3 +30,8 @@ $ python2 keys.py
 
 ° Maka Tampilan nya Akan Seperti ini °
 
+<img src="Screenshot_2022_0222_103305.jpg">
+
+setelah itu lakukan pemilihan sesuka mu
+
+terimakasih 😁
